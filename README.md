@@ -4,4 +4,11 @@ The computer should have a strategy to play Tic-tac-toe well. You need to develo
 
 Also, add a toolbar with three buttons. These buttons are for selecting players and resetting the game. When you click on the player button, it should change to represent either a human player or a computer. So in total, the program should support four game modes: player versus player, player versus computer, computer versus player, and computer versus computer.
 
-Optionally, you can add a small delay (about a second) when a computer makes a move. This will allow you to follow the game when during computer vs. computer mode.
+Optionally, you can add a small delay (about a second) when a computer makes a move. This will allow you to follow the game when during computer vs. computer mode.  
+
+Fortesting purposes
+Human vs Human
+Human vs Robot
+Robot vs Human
+Robot vs Robot
+Exit
