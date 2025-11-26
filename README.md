@@ -6,9 +6,9 @@ Also, add a toolbar with three buttons. These buttons are for selecting players 
 
 Optionally, you can add a small delay (about a second) when a computer makes a move. This will allow you to follow the game when during computer vs. computer mode.  
 
-Fortesting purposes
-Human vs Human
-Human vs Robot
-Robot vs Human
-Robot vs Robot
-Exit
+Fortesting purposes  
+1.  Human vs Human  
+2.  Human vs Robot  
+3.  Robot vs Human  
+4.  Robot vs Robot  
+5.  Exit
